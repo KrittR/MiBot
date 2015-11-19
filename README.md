@@ -1,4 +1,5 @@
-# MiBot
+![alt text][logo]
+
 MiBot Twitch chat bot is a free to use twitch chat/moderation bot. The bot has similar functions to bots such as DeepBot, the difference? It's compleetely free to use!
 
 ---
@@ -24,3 +25,6 @@ MiBot Twitch chat bot is a free to use twitch chat/moderation bot. The bot has s
 ---
 
 *Created by KrittR*
+
+
+[logo]: http://i.imgur.com/ecccd01.png "MiBot Logo"
