@@ -19,6 +19,7 @@ MiBot Twitch chat bot is a free to use twitch chat/moderation bot. The bot has s
 * Donation integration (Twitch Alerts)
 * Point system
 * Ranks
+* Per rank permissions (post links, use CAPS, etc.)
 * Heists / point betting
 * Random Quotes
 
