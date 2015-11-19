@@ -24,7 +24,7 @@ MiBot Twitch chat bot is a free to use twitch chat/moderation bot. The bot has s
 
 ---
 
-*Created by KrittR*
+*Created by KrittR - @KrittRCS - twitch.tv/krittr*
 
 
 [logo]: http://i.imgur.com/ecccd01.png "MiBot Logo"
