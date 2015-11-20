@@ -1,0 +1,3 @@
+MiBot default channel commands:
+!commands: links to this page
+!game: Displays current game
