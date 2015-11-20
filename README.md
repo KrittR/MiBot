@@ -1,6 +1,6 @@
 ![logo]
 
-MiBot Twitch chat bot is a free to use twitch chat/moderation bot. The bot has similar functions to bots such as DeepBot, the difference? It's compleetely free to use!
+MiBot Twitch chat bot is a free to use twitch chat/moderation bot. The bot has similar functions to bots such as DeepBot.
 
 ---
 
@@ -22,6 +22,7 @@ MiBot Twitch chat bot is a free to use twitch chat/moderation bot. The bot has s
 * Per rank permissions (post links, use CAPS, etc.)
 * Heists / point betting
 * Random Quotes
+* Increased luck in giveaways relative to view time
 
 ---
 
